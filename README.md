@@ -14,4 +14,4 @@
 Выполнить так, чтоб выглядело, как реальное резюме
 
 
-<mg src='screenshot.png'>
+<img src='screenshot.png'>
